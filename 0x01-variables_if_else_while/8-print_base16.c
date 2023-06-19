@@ -11,7 +11,7 @@ int main(void)
 	char letter;
 	int nbr;
 
-	for (nbr = '0' ; nbr <='9' ; nbr++)
+	for (nbr = '0' ; nbr <= '9' ; nbr++)
 	{
 		putchar(nbr);
 	}
